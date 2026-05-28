@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class Create_TraningModule {
+public class Create_TraningModule1 {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
